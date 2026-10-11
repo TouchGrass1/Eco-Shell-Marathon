@@ -1,0 +1,16 @@
+{
+    "Capacity_Ah": 50.0,
+    "efficiency": 0.99,
+    "peukert_k": 1.2,
+    "V_b_m3": 0.002,
+    "mass_kg": 2.5,
+    "cp_J_kg_K": 900.0,
+    "cooling_coeff_W_K": 2.5,
+    "T_ambient_K": 298.15,
+    "dE_dT_V_K": 0.0002,
+    "dt_s": 1.0,
+    "SOC_initial": 1.0,
+    "T_initial_K": 298.15,
+    "process_noise_variance": 1e-5,
+    "measurement_noise_variance": 1e-2
+}
